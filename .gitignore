@@ -1,1 +1,7 @@
 .DS_Store
+appstore/
+fastlane/
+Gemfile
+vendor/
+.bundle/
+Gemfile.lock
